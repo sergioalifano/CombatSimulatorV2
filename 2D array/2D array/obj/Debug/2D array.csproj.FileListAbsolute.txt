@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\CombatSimulatorV2\2D array\2D array\bin\Debug\2D array.exe.config
+C:\Users\Technologist\Documents\GitHub\CombatSimulatorV2\2D array\2D array\bin\Debug\2D array.exe
+C:\Users\Technologist\Documents\GitHub\CombatSimulatorV2\2D array\2D array\bin\Debug\2D array.pdb
+C:\Users\Technologist\Documents\GitHub\CombatSimulatorV2\2D array\2D array\obj\Debug\2D array.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\CombatSimulatorV2\2D array\2D array\obj\Debug\2D array.exe
+C:\Users\Technologist\Documents\GitHub\CombatSimulatorV2\2D array\2D array\obj\Debug\2D array.pdb
